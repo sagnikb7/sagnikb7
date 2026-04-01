@@ -1,10 +1,44 @@
-- 👋 Hi, I’m @sagnikb7
-- 👀 I’m interested in Photography and all things tech
-- 🌱 I’m currently learning NodeJs, Neural Networks, Game Dev
-- 💞️ I’m looking to collaborate on backend projects
-- 📫 How to reach me sagnikb7@outlook.com
+## 👋 Hey, I'm Sagnik
 
-<!---
-sagnikb7/sagnikb7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend engineer focused on building scalable systems and clean architectures.
+
+---
+
+### 🚀 What I do
+- 🧩 Backend Development (Node.js, APIs, distributed systems)
+- ⚡ Event-driven systems (Kafka, async pipelines)
+- 🧠 Exploring Neural Networks & Generative AI
+- 🎮 Experimenting with Game Dev & interactive systems
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** JavaScript / TypeScript, Python  
+- **Backend:** Node.js, Express, Fastify  
+- **Systems:** Kafka, Redis, REST, WebSockets  
+- **Tools:** Docker, Git, Linux  
+
+---
+
+### 🌱 Currently Exploring
+- Neural networks & applied AI
+- System design at scale
+- Performance optimization patterns
+
+---
+
+### 🤝 Open to
+- Backend-heavy collaborations  
+- Infra / systems design projects  
+- Experimental tech (AI, graphics, embedded)
+
+---
+
+### 📫 Reach me
+- Email: sagnikb7@outlook.com
+
+---
+
+### ⚡ Fun
+- Photography + tech intersections  
+- 3D printing & hardware tinkering  
