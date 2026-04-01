@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagnikb7
 - 👀 I’m interested in Photography and all things tech
-- 🌱 I’m currently learning NodeJs
+- 🌱 I’m currently learning NodeJs, Neural Networks, Game Dev
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me sagnikb7@outlook.com
 
